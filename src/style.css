@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App-header {
+  background-color: white;
+  color: black;
+}
+
+.boxes {
+  display: flex;
+  min-height: 100px;
+  max-width: 200px;
+  margin: 10px;
+}
+
+.pad {
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
